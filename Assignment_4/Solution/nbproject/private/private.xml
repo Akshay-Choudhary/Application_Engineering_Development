@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/DrugDirectory.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/AddDrugJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/ViewDrugsJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/CreatePharmaJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/PharmaLoginJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/MasterInventoryDirectory.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/StoreAdminRole/ViewDrugDetailsJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/InventoryItem.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/Drug.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/MainJFrame.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/StoreAdminRole/StoreDetailsJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/Pharma.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/PharmaDirectory.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/ManageStoreDirectoryJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/Inventory.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/Store.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/CVSWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/StoreAdminRole/StoreWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/AddStoreJPanel.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/business/StoreDirectory.java</file>
+            <file>file:/C:/Users/aksha/Documents/NetBeansProjects/Assignment4/src/userinterface/CVSAdminRole/ManageDrugDirectoryJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
